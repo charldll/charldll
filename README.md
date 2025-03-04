@@ -1,7 +1,8 @@
-## Hello, I'm Inga (o゜▽゜)o☆
+## Hello, I'm Inga☆
 (Also known as Charlie)
 
-I'm a beginner front-end dev with an experience in graphic design, and I want to further learn towards both front-end and UI/UX design.
+-> beginner front-end dev with an experience in graphic design.
+-> aiming to further develop towards front-end and UI/UX design
 
 ### For my lastest collaborative project, check:
 https://soba-ramen.netlify.app
