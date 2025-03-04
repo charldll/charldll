@@ -1,5 +1,5 @@
 ## Hello, I'm Inga☆
-(Also known as Charlie)
+-# (Also known as Charlie)
 
 > beginner front-end dev with an experience in graphic design.
 > 
