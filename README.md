@@ -1,8 +1,7 @@
 ## Hello, I'm Inga☆
 (also known as Charlie)
 
-> beginner front-end dev with an experience in graphic design.
-
+> beginner front-end dev with an experience in graphic design.  
 > aiming to further develop towards front-end and UI/UX design
 
 ### For my lastest collaborative project, check:
