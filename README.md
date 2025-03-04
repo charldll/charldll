@@ -1,10 +1,13 @@
-## Hi there 👋
+## Hello, I'm Inga (o゜▽゜)o☆
+* Also known as Charlie
 
-<!--
-**charldll/charldll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner front-end dev with an experience in graphic design, and I want to further learn towards both front-end and UI/UX design.
 
-Here are some ideas to get you started:
+# For my lastest collaborative project, check:
+https://soba-ramen.netlify.app
 
+
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
